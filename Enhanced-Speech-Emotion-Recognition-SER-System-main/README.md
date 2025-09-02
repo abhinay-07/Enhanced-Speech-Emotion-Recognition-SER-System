@@ -10,7 +10,7 @@ An advanced Speech Emotion Recognition system for real-time and file-based emoti
 ```
 speech-emotion-recognition/
 ├── enhanced_ser_gui.py         # Main enhanced GUI application
-├── create_samples.py           # Generate synthetic emotion audio samples
+├── create_samples.py           # Generate synthetic emotion audio samples 
 ├── requirements_enhanced.txt   # Enhanced dependencies
 ├── requirements.txt            # Basic dependencies
 ├── README.md                   # This documentation

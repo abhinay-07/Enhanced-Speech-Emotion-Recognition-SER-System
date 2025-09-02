@@ -147,7 +147,7 @@ python -m ser --train-enhanced
 
 ## 📧 Contact & Credits
 
-Developed by [Your Name].
+Developed by Abhinay Manikanti.
 Based on open-source libraries: PyQt5, librosa, scikit-learn, TensorFlow/Keras, OpenAI Whisper, matplotlib, sounddevice, noisereduce.
 
 ---
